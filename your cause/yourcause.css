@@ -1,0 +1,67 @@
+/*
+* Isabella Ceresini
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/* Body attributes here */
+
+*{margin:0;
+  padding:0;
+}
+
+body {
+    background-color: #d9d2ff;
+    width: 85%;
+    margin:auto;
+}
+
+header{border-bottom: 5px solid white;
+padding:20px;
+text-align: center;
+}
+main{padding:2em;
+font-size: 99%;}
+
+#disability {width:200px; height: 200px; float:left;
+margin-right: 2em;
+margin-bottom: 2em;
+border: 2px solid darkblue;}
+
+#rockyoursocks {width:225px; height: 150px; float:left;
+margin-right: 0.2em;
+margin-bottom: 2em;
+border: 2px dotted darkblue;}
+
+#icanbike {width:225px; height: 150px; float:left;
+margin-bottom: 2em;
+border: 2px solid darkblue;}
+
+#DSA {width:225px; height: 150px; float:left;
+margin-left: 0.2em;
+margin-bottom: 2em;
+border: 2px dotted darkblue;}
+
+#ability {width:225px; height: 150px; float:left;
+margin-left: 0.2em;
+margin-bottom: 2em;
+border: 2px solid darkblue;}
+
+#bluegold {width:225px; height: 150px; float:left;
+margin-left: 0.2em;
+margin-bottom: 2em;
+border: 2px dotted darkblue;}
+
+ul,li{list-style-position: inside;}
+
+footer{border-top: 5px solid white;
+padding:2em;}
+
+
+
+    
